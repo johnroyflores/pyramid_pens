@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.col-md-4 {
+	text-align: center;
+	color:#ccc;
+}
+
+.img-circle {
+	padding: 20px;
+}
+
+body {
+	background-image: url("dark_embroidery.png");
+}
