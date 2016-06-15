@@ -5,10 +5,37 @@
 	color:#ccc;
 }
 
-.img-circle {
-	padding: 20px;
+.shadowed {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: 20px auto;
 }
 
 body {
-	background-image: url("dark_embroidery.png");
+	background-image: url("dark_embroidery/footer_lodyas.png");
 }
+
+p {
+	line-spacing: 1.5;
+}
+
+li {
+	text-align: center;
+	text-decoration: none;
+}
+
+#myCarousel{
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 30px;
+}
+
+.trio {
+	height:250px;
+	width:250px;
+}
+
+.teeny {
+	height:30px;
+	width:30px;
+	padding: 0px;
+}
+
